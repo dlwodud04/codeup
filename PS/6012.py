@@ -1,2 +1,4 @@
-a = float(input())
-print(float(a))
+a = int(input())
+b = int(input())
+print(a)
+print(b)
